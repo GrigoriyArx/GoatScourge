@@ -1,0 +1,758 @@
+[09:53:19.576659] [Import] [info] (th=23724) Log level for 'Import' set to 'info'
+[09:53:19.577074] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_green.fbx
+[09:53:19.686086] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.028"
+	numMeshes: 1
+	 addr: "00000236842FC540"
+	 name: "Plane.208"
+	 numVertices: "1157"
+	 numFaces: "718"
+	
+	
+
+[09:53:19.686239] [Import] [info] (th=23724) File loaded successfully
+[09:53:19.686483] [Import] [info] (th=23724) Meshes count: 1
+[09:53:19.686576] [Import] [info] (th=23724) Materials count: 1
+[09:53:19.687471] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:53:55.254212] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[09:53:55.258921] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "00000236F8B52AD0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[09:53:55.258987] [Import] [info] (th=23724) File loaded successfully
+[09:53:55.259043] [Import] [info] (th=23724) Meshes count: 1
+[09:53:55.259099] [Import] [info] (th=23724) Materials count: 1
+[09:53:55.259316] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:56:27.588276] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_forest.fbx
+[09:56:27.591804] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.047"
+	numMeshes: 1
+	 addr: "000002368F544AE0"
+	 name: "Plane.213"
+	 numVertices: "1157"
+	 numFaces: "718"
+	
+	
+
+[09:56:27.592012] [Import] [info] (th=23724) File loaded successfully
+[09:56:27.592147] [Import] [info] (th=23724) Meshes count: 1
+[09:56:27.592267] [Import] [info] (th=23724) Materials count: 1
+[09:56:27.592500] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:57:10.956311] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\stones_forest.fbx
+[09:57:10.958597] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche01.151"
+	numMeshes: 1
+	 addr: "000002368F546570"
+	 name: "Plane.228"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+
+[09:57:10.958643] [Import] [info] (th=23724) File loaded successfully
+[09:57:10.958684] [Import] [info] (th=23724) Meshes count: 1
+[09:57:10.958721] [Import] [info] (th=23724) Materials count: 1
+[09:57:10.958861] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:57:33.491476] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\stones_forest.fbx
+[09:57:33.494017] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche01.151"
+	numMeshes: 1
+	 addr: "000002368F547560"
+	 name: "Plane.228"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+
+[09:57:33.494059] [Import] [info] (th=23724) File loaded successfully
+[09:57:33.494093] [Import] [info] (th=23724) Meshes count: 1
+[09:57:33.494127] [Import] [info] (th=23724) Materials count: 1
+[09:57:33.494271] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:57:51.295751] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_forest.fbx
+[09:57:51.298831] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.047"
+	numMeshes: 1
+	 addr: "000002369AB16530"
+	 name: "Plane.213"
+	 numVertices: "1157"
+	 numFaces: "718"
+	
+	
+
+[09:57:51.298877] [Import] [info] (th=23724) File loaded successfully
+[09:57:51.298911] [Import] [info] (th=23724) Meshes count: 1
+[09:57:51.298944] [Import] [info] (th=23724) Materials count: 1
+[09:57:51.299084] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:58:18.826807] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[09:58:18.830390] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AB18FB0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[09:58:18.830439] [Import] [info] (th=23724) File loaded successfully
+[09:58:18.830474] [Import] [info] (th=23724) Meshes count: 1
+[09:58:18.830508] [Import] [info] (th=23724) Materials count: 1
+[09:58:18.830649] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:58:42.378076] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[09:58:42.380943] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAB1560"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[09:58:42.380986] [Import] [info] (th=23724) File loaded successfully
+[09:58:42.381020] [Import] [info] (th=23724) Meshes count: 1
+[09:58:42.381053] [Import] [info] (th=23724) Materials count: 1
+[09:58:53.110381] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[09:58:53.113698] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAB1010"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[09:58:53.113808] [Import] [info] (th=23724) File loaded successfully
+[09:58:53.113892] [Import] [info] (th=23724) Meshes count: 1
+[09:58:53.113975] [Import] [info] (th=23724) Materials count: 1
+[09:58:53.114174] [Import] [warning] (th=23724) It seems that scene structure is different
+[09:58:57.894343] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[09:58:57.897313] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAB2FF0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[09:58:57.897355] [Import] [info] (th=23724) File loaded successfully
+[09:58:57.897389] [Import] [info] (th=23724) Meshes count: 1
+[09:58:57.897422] [Import] [info] (th=23724) Materials count: 1
+[09:58:57.897599] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:00:46.678906] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:00:46.682959] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAB0570"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:00:46.683112] [Import] [info] (th=23724) File loaded successfully
+[10:00:46.683253] [Import] [info] (th=23724) Meshes count: 1
+[10:00:46.683359] [Import] [info] (th=23724) Materials count: 1
+[10:00:46.683879] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:00:53.030344] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:00:53.033530] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAAD5A0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:00:53.033576] [Import] [info] (th=23724) File loaded successfully
+[10:00:53.033611] [Import] [info] (th=23724) Meshes count: 1
+[10:00:53.033646] [Import] [info] (th=23724) Materials count: 1
+[10:00:53.033789] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:01:50.897539] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:01:50.900556] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAAD050"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:01:50.900663] [Import] [info] (th=23724) File loaded successfully
+[10:01:50.900704] [Import] [info] (th=23724) Meshes count: 1
+[10:01:50.900737] [Import] [info] (th=23724) Materials count: 1
+[10:01:50.900875] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:01:57.401114] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:01:57.404115] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAB0AC0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:01:57.404157] [Import] [info] (th=23724) File loaded successfully
+[10:01:57.404190] [Import] [info] (th=23724) Meshes count: 1
+[10:01:57.404222] [Import] [info] (th=23724) Materials count: 1
+[10:01:57.404359] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:02:04.530723] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:02:04.533790] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAADAF0"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:02:04.533835] [Import] [info] (th=23724) File loaded successfully
+[10:02:04.533869] [Import] [info] (th=23724) Meshes count: 1
+[10:02:04.533903] [Import] [info] (th=23724) Materials count: 1
+[10:02:04.534044] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:02:19.397645] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:02:19.400654] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "000002369AAAE040"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:02:19.400696] [Import] [info] (th=23724) File loaded successfully
+[10:02:19.400730] [Import] [info] (th=23724) Meshes count: 1
+[10:02:19.400763] [Import] [info] (th=23724) Materials count: 1
+[10:02:19.400899] [Import] [warning] (th=23724) It seems that scene structure is different
+[10:13:38.822232] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Goat\Export\Goat_T-pose.fbx
+[10:13:38.848215] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Goat"
+	numMeshes: 1
+	 addr: "000002369AAAEAE0"
+	 name: "Plane.001"
+	 numVertices: "2318"
+	 numFaces: "1534"
+	
+	
+	name: "Goat_Armature"
+	
+		name: "Root"
+		
+			name: "spine1"
+			
+				name: "spine2"
+				
+					name: "spine3"
+					
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "ear.L"
+								
+								name: "ear.R"
+								
+						name: "calvincle.L"
+						
+							name: "foreleg_up.L"
+							
+								name: "foreleg_bottom.L"
+								
+									name: "forefoot.L"
+									
+						name: "calvincle.R"
+						
+							name: "foreleg_up.R"
+							
+								name: "foreleg_bottom.R"
+								
+									name: "forefoot.R"
+									
+				name: "tail1"
+				
+				name: "hind_leg_up.L"
+				
+					name: "hind_leg_middle.L"
+					
+						name: "hind_leg_bottom.L"
+						
+							name: "rearleg_foot.L"
+							
+				name: "hind_leg_up.R"
+				
+					name: "hind_leg_middle.R"
+					
+						name: "hind_leg_bottom.R"
+						
+							name: "rearleg_foot.R"
+							
+
+[10:13:38.848260] [Import] [info] (th=23724) File loaded successfully
+[10:13:38.848293] [Import] [info] (th=23724) Meshes count: 1
+[10:13:38.848327] [Import] [info] (th=23724) Materials count: 1
+[10:13:38.848694] [Import] [info] (th=23724) Textures count (imported): 1
+[10:14:20.690435] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Goat\Export\Goat_T-pose.fbx
+[10:14:20.698064] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Goat"
+	numMeshes: 1
+	 addr: "00000236F8B50050"
+	 name: "Plane.001"
+	 numVertices: "2318"
+	 numFaces: "1534"
+	
+	
+	name: "Goat_Armature"
+	
+		name: "Root"
+		
+			name: "spine1"
+			
+				name: "spine2"
+				
+					name: "spine3"
+					
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "ear.L"
+								
+								name: "ear.R"
+								
+						name: "calvincle.L"
+						
+							name: "foreleg_up.L"
+							
+								name: "foreleg_bottom.L"
+								
+									name: "forefoot.L"
+									
+						name: "calvincle.R"
+						
+							name: "foreleg_up.R"
+							
+								name: "foreleg_bottom.R"
+								
+									name: "forefoot.R"
+									
+				name: "tail1"
+				
+				name: "hind_leg_up.L"
+				
+					name: "hind_leg_middle.L"
+					
+						name: "hind_leg_bottom.L"
+						
+							name: "rearleg_foot.L"
+							
+				name: "hind_leg_up.R"
+				
+					name: "hind_leg_middle.R"
+					
+						name: "hind_leg_bottom.R"
+						
+							name: "rearleg_foot.R"
+							
+
+[10:14:20.698109] [Import] [info] (th=23724) File loaded successfully
+[10:14:20.698143] [Import] [info] (th=23724) Meshes count: 1
+[10:14:20.698175] [Import] [info] (th=23724) Materials count: 1
+[10:14:28.122087] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Goat\Export\Goat_idle.fbx
+[10:14:28.138239] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Goat_Armature"
+	
+		name: "Root"
+		
+			name: "spine1"
+			
+				name: "spine2"
+				
+					name: "spine3"
+					
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "ear.L"
+								
+								name: "ear.R"
+								
+						name: "calvincle.L"
+						
+							name: "foreleg_up.L"
+							
+								name: "foreleg_bottom.L"
+								
+									name: "forefoot.L"
+									
+						name: "calvincle.R"
+						
+							name: "foreleg_up.R"
+							
+								name: "foreleg_bottom.R"
+								
+									name: "forefoot.R"
+									
+				name: "tail1"
+				
+				name: "hind_leg_up.L"
+				
+					name: "hind_leg_middle.L"
+					
+						name: "hind_leg_bottom.L"
+						
+							name: "rearleg_foot.L"
+							
+				name: "hind_leg_up.R"
+				
+					name: "hind_leg_middle.R"
+					
+						name: "hind_leg_bottom.R"
+						
+							name: "rearleg_foot.R"
+							
+
+[10:14:28.138287] [Import] [info] (th=23724) File loaded successfully
+[10:14:28.138320] [Import] [info] (th=23724) Meshes count: 0
+[10:14:28.138353] [Import] [info] (th=23724) Materials count: 0
+[10:21:14.698070] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Wolf\Export\Wolf_T-pose.fbx
+[10:21:14.706151] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Wolf"
+	numMeshes: 1
+	 addr: "00000236F8B52030"
+	 name: "Cube.001"
+	 numVertices: "1937"
+	 numFaces: "1174"
+	
+	
+	name: "Wolf_Armature"
+	
+		name: "spine1"
+		
+			name: "spine2"
+			
+				name: "spine3"
+				
+					name: "neck"
+					
+						name: "Head"
+						
+							name: "jaw"
+							
+							name: "lips"
+							
+							name: "ear.L"
+							
+							name: "ear.R"
+							
+					name: "calvincle.L"
+					
+						name: "foreleg_up.L"
+						
+							name: "foreleg_bottom.L"
+							
+								name: "forefoot.L"
+								
+									name: "foot.L"
+									
+					name: "calvincle.R"
+					
+						name: "foreleg_up.R"
+						
+							name: "foreleg_bottom.R"
+							
+								name: "forefoot.R"
+								
+									name: "foot.R"
+									
+			name: "tail1"
+			
+				name: "tail2"
+				
+					name: "tail3"
+					
+			name: "hind_leg_up.L"
+			
+				name: "hind_leg_middle.L"
+				
+					name: "hind_leg_bottom.L"
+					
+						name: "rearleg_foot.L"
+						
+			name: "hind_leg_up.R"
+			
+				name: "hind_leg_middle.R"
+				
+					name: "hind_leg_bottom.R"
+					
+						name: "rearleg_foot.R"
+						
+
+[10:21:14.706274] [Import] [info] (th=23724) File loaded successfully
+[10:21:14.706358] [Import] [info] (th=23724) Meshes count: 1
+[10:21:14.706396] [Import] [info] (th=23724) Materials count: 1
+[10:21:14.706705] [Import] [info] (th=23724) Textures count (imported): 1
+[10:22:45.794926] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Wolf\Export\Wolf_idle.fbx
+[10:22:45.805985] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Wolf_Armature"
+	
+		name: "spine1"
+		
+			name: "spine2"
+			
+				name: "spine3"
+				
+					name: "neck"
+					
+						name: "Head"
+						
+							name: "jaw"
+							
+							name: "lips"
+							
+							name: "ear.L"
+							
+							name: "ear.R"
+							
+					name: "calvincle.L"
+					
+						name: "foreleg_up.L"
+						
+							name: "foreleg_bottom.L"
+							
+								name: "forefoot.L"
+								
+									name: "foot.L"
+									
+					name: "calvincle.R"
+					
+						name: "foreleg_up.R"
+						
+							name: "foreleg_bottom.R"
+							
+								name: "forefoot.R"
+								
+									name: "foot.R"
+									
+			name: "tail1"
+			
+				name: "tail2"
+				
+					name: "tail3"
+					
+			name: "hind_leg_up.L"
+			
+				name: "hind_leg_middle.L"
+				
+					name: "hind_leg_bottom.L"
+					
+						name: "rearleg_foot.L"
+						
+			name: "hind_leg_up.R"
+			
+				name: "hind_leg_middle.R"
+				
+					name: "hind_leg_bottom.R"
+					
+						name: "rearleg_foot.R"
+						
+
+[10:22:45.806053] [Import] [info] (th=23724) File loaded successfully
+[10:22:45.806087] [Import] [info] (th=23724) Meshes count: 0
+[10:22:45.806120] [Import] [info] (th=23724) Materials count: 0
+[10:23:04.604609] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Wolf\Export\Wolf_walk.fbx
+[10:23:04.614079] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Wolf_Armature"
+	
+		name: "spine1"
+		
+			name: "spine2"
+			
+				name: "spine3"
+				
+					name: "neck"
+					
+						name: "Head"
+						
+							name: "jaw"
+							
+							name: "lips"
+							
+							name: "ear.L"
+							
+							name: "ear.R"
+							
+					name: "calvincle.L"
+					
+						name: "foreleg_up.L"
+						
+							name: "foreleg_bottom.L"
+							
+								name: "forefoot.L"
+								
+									name: "foot.L"
+									
+					name: "calvincle.R"
+					
+						name: "foreleg_up.R"
+						
+							name: "foreleg_bottom.R"
+							
+								name: "forefoot.R"
+								
+									name: "foot.R"
+									
+			name: "tail1"
+			
+				name: "tail2"
+				
+					name: "tail3"
+					
+			name: "hind_leg_up.L"
+			
+				name: "hind_leg_middle.L"
+				
+					name: "hind_leg_bottom.L"
+					
+						name: "rearleg_foot.L"
+						
+			name: "hind_leg_up.R"
+			
+				name: "hind_leg_middle.R"
+				
+					name: "hind_leg_bottom.R"
+					
+						name: "rearleg_foot.R"
+						
+
+[10:23:04.614125] [Import] [info] (th=23724) File loaded successfully
+[10:23:04.614158] [Import] [info] (th=23724) Meshes count: 0
+[10:23:04.614191] [Import] [info] (th=23724) Materials count: 0
+[10:23:14.890139] [Import] [info] (th=23724) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Wolf\Export\Wolf_galop.fbx
+[10:23:14.899675] [Import] [info] (th=23724) Imported scene tree:
+name: "RootNode"
+
+	name: "Wolf_Armature"
+	
+		name: "spine1"
+		
+			name: "spine2"
+			
+				name: "spine3"
+				
+					name: "neck"
+					
+						name: "Head"
+						
+							name: "jaw"
+							
+							name: "lips"
+							
+							name: "ear.L"
+							
+							name: "ear.R"
+							
+					name: "calvincle.L"
+					
+						name: "foreleg_up.L"
+						
+							name: "foreleg_bottom.L"
+							
+								name: "forefoot.L"
+								
+									name: "foot.L"
+									
+					name: "calvincle.R"
+					
+						name: "foreleg_up.R"
+						
+							name: "foreleg_bottom.R"
+							
+								name: "forefoot.R"
+								
+									name: "foot.R"
+									
+			name: "tail1"
+			
+				name: "tail2"
+				
+					name: "tail3"
+					
+			name: "hind_leg_up.L"
+			
+				name: "hind_leg_middle.L"
+				
+					name: "hind_leg_bottom.L"
+					
+						name: "rearleg_foot.L"
+						
+			name: "hind_leg_up.R"
+			
+				name: "hind_leg_middle.R"
+				
+					name: "hind_leg_bottom.R"
+					
+						name: "rearleg_foot.R"
+						
+
+[10:23:14.899722] [Import] [info] (th=23724) File loaded successfully
+[10:23:14.899754] [Import] [info] (th=23724) Meshes count: 0
+[10:23:14.899787] [Import] [info] (th=23724) Materials count: 0

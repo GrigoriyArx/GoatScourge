@@ -1,0 +1,18 @@
+[13:53:37.149601] [Import] [info] (th=15624) Log level for 'Import' set to 'info'
+[13:53:37.149742] [Import] [info] (th=15624) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Ocean.fbx
+[13:53:37.279439] [Import] [info] (th=15624) Imported scene tree:
+name: "RootNode"
+
+	name: "OCean_plane"
+	numMeshes: 1
+	 addr: "000002B50A7C8720"
+	 name: "Plane.015"
+	 numVertices: "180"
+	 numFaces: "90"
+	
+	
+
+[13:53:37.279492] [Import] [info] (th=15624) File loaded successfully
+[13:53:37.279526] [Import] [info] (th=15624) Meshes count: 1
+[13:53:37.279560] [Import] [info] (th=15624) Materials count: 1
+[13:53:37.300803] [Import] [info] (th=15624) Textures count (imported): 1

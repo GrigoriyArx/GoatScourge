@@ -1,0 +1,52 @@
+[10:41:50.305802] [Import] [info] (th=20152) Log level for 'Import' set to 'info'
+[10:41:50.306212] [Import] [info] (th=20152) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\GrassPatche03_swamp.fbx
+[10:41:50.440267] [Import] [info] (th=20152) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche03.041"
+	numMeshes: 1
+	 addr: "0000023394751330"
+	 name: "Plane.175"
+	 numVertices: "1287"
+	 numFaces: "799"
+	
+	
+
+[10:41:50.440316] [Import] [info] (th=20152) File loaded successfully
+[10:41:50.440351] [Import] [info] (th=20152) Meshes count: 1
+[10:41:50.440384] [Import] [info] (th=20152) Materials count: 1
+[10:41:50.441060] [Import] [warning] (th=20152) It seems that scene structure is different
+[10:42:22.551843] [Import] [info] (th=20152) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Ground_swamp.fbx
+[10:42:22.579069] [Import] [info] (th=20152) Imported scene tree:
+name: "RootNode"
+
+	name: "GroundPiece00.053"
+	numMeshes: 1
+	 addr: "0000023394750890"
+	 name: "Plane.150"
+	 numVertices: "15323"
+	 numFaces: "6926"
+	
+	
+
+[10:42:22.579115] [Import] [info] (th=20152) File loaded successfully
+[10:42:22.579149] [Import] [info] (th=20152) Meshes count: 1
+[10:42:22.579182] [Import] [info] (th=20152) Materials count: 1
+[10:42:22.579324] [Import] [warning] (th=20152) It seems that scene structure is different
+[10:42:41.190124] [Import] [info] (th=20152) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Ground_darkGorest.fbx
+[10:42:41.231207] [Import] [info] (th=20152) Imported scene tree:
+name: "RootNode"
+
+	name: "GroundPiece00.051"
+	numMeshes: 1
+	 addr: "0000023394754DA0"
+	 name: "Plane.153"
+	 numVertices: "20960"
+	 numFaces: "9488"
+	
+	
+
+[10:42:41.231276] [Import] [info] (th=20152) File loaded successfully
+[10:42:41.231334] [Import] [info] (th=20152) Meshes count: 1
+[10:42:41.231395] [Import] [info] (th=20152) Materials count: 1
+[10:42:41.231627] [Import] [warning] (th=20152) It seems that scene structure is different

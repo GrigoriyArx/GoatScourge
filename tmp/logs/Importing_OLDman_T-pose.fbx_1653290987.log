@@ -1,0 +1,811 @@
+[11:29:47.292549] [Import] [info] (th=3096) Log level for 'Import' set to 'info'
+[11:29:47.292708] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\OLDman_T-pose.fbx
+[11:29:47.327140] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+								name: "toes_L_end"
+								
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+								name: "toes_R_end"
+								
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "hand_R_end"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "hand_L_end"
+										
+						name: "neck"
+						
+							name: "Head"
+							
+								name: "Head_end"
+								
+			name: "IK_hand.R"
+			
+				name: "IK_hand.R_end"
+				
+			name: "IK_hand.L"
+			
+				name: "IK_hand.L_end"
+				
+			name: "IK_foot.R"
+			
+				name: "IK_foot.R_end"
+				
+			name: "IK_foot.L"
+			
+				name: "IK_foot.L_end"
+				
+			name: "IK_knee.R"
+			
+				name: "IK_knee.R_end"
+				
+			name: "IK_knee.L"
+			
+				name: "IK_knee.L_end"
+				
+			name: "IK_elbow.R"
+			
+				name: "IK_elbow.R_end"
+				
+			name: "IK_elbow.L"
+			
+				name: "IK_elbow.L_end"
+				
+	name: "OldMan"
+	numMeshes: 2
+	 addr: "00000156B082AAF0"
+	 name: "Cylinder.003"
+	 numVertices: "2498"
+	 numFaces: "1822"
+	
+	 addr: "00000156B082B590"
+	 name: "Cylinder.003"
+	 numVertices: "381"
+	 numFaces: "234"
+	
+	
+
+[11:29:47.327191] [Import] [info] (th=3096) File loaded successfully
+[11:29:47.327224] [Import] [info] (th=3096) Meshes count: 2
+[11:29:47.327257] [Import] [info] (th=3096) Materials count: 2
+[11:29:47.327787] [Import] [info] (th=3096) Textures count (imported): 1
+[11:30:53.490832] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\OLDman_T-pose.fbx
+[11:30:53.502597] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "Player.001"
+										numMeshes: 1
+										 addr: "00000156B082B040"
+										 name: "Cylinder.001"
+										 numVertices: "266"
+										 numFaces: "200"
+										
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "OldMan"
+	numMeshes: 2
+	 addr: "00000156DEF70040"
+	 name: "Cylinder.003"
+	 numVertices: "2501"
+	 numFaces: "1822"
+	
+	 addr: "00000156DEF6C5D0"
+	 name: "Cylinder.003"
+	 numVertices: "381"
+	 numFaces: "234"
+	
+	
+
+[11:30:53.502705] [Import] [info] (th=3096) File loaded successfully
+[11:30:53.502788] [Import] [info] (th=3096) Meshes count: 3
+[11:30:53.502870] [Import] [info] (th=3096) Materials count: 3
+[11:30:53.503574] [Import] [info] (th=3096) Textures count (imported): 1
+[11:38:26.644565] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\OLDman_T-pose.fbx
+[11:38:26.655888] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "OldMan"
+	numMeshes: 2
+	 addr: "00000156F9DBFAE0"
+	 name: "Cylinder.003"
+	 numVertices: "2500"
+	 numFaces: "1822"
+	
+	 addr: "00000156F9DC0580"
+	 name: "Cylinder.003"
+	 numVertices: "381"
+	 numFaces: "234"
+	
+	
+
+[11:38:26.655933] [Import] [info] (th=3096) File loaded successfully
+[11:38:26.655966] [Import] [info] (th=3096) Meshes count: 2
+[11:38:26.655999] [Import] [info] (th=3096) Materials count: 2
+[11:38:26.656479] [Import] [info] (th=3096) Textures count (imported): 1
+[11:39:43.112360] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\OLDman_T-pose.fbx
+[11:39:43.120920] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "Player.001"
+										numMeshes: 1
+										 addr: "00000156EDE1D550"
+										 name: "Cylinder.001"
+										 numVertices: "266"
+										 numFaces: "200"
+										
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "OldMan"
+	numMeshes: 1
+	 addr: "00000156EDE1B020"
+	 name: "Cylinder.003"
+	 numVertices: "2881"
+	 numFaces: "2056"
+	
+	
+
+[11:39:43.120965] [Import] [info] (th=3096) File loaded successfully
+[11:39:43.120999] [Import] [info] (th=3096) Meshes count: 2
+[11:39:43.121038] [Import] [info] (th=3096) Materials count: 2
+[11:39:43.121510] [Import] [info] (th=3096) Textures count (imported): 1
+[11:43:58.169359] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Happy Idle.fbx
+[11:43:58.311224] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "mixamo:Player.001"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[11:43:58.311271] [Import] [info] (th=3096) File loaded successfully
+[11:43:58.311305] [Import] [info] (th=3096) Meshes count: 0
+[11:43:58.311337] [Import] [info] (th=3096) Materials count: 0
+[11:44:11.200878] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Sad Idle.fbx
+[11:44:11.211865] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "mixamo:Player.001"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[11:44:11.212003] [Import] [info] (th=3096) File loaded successfully
+[11:44:11.212143] [Import] [info] (th=3096) Meshes count: 0
+[11:44:11.212271] [Import] [info] (th=3096) Materials count: 0
+[11:44:24.834821] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Neutral Idle.fbx
+[11:44:24.841125] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "mixamo:Player.001"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[11:44:24.841170] [Import] [info] (th=3096) File loaded successfully
+[11:44:24.841202] [Import] [info] (th=3096) Meshes count: 0
+[11:44:24.841235] [Import] [info] (th=3096) Materials count: 0
+[11:59:24.209115] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Guy_T-pose.fbx
+[11:59:24.219514] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "Male_Hair1"
+	numMeshes: 1
+	 addr: "00000156EDE21FB0"
+	 name: "Cube.001"
+	 numVertices: "190"
+	 numFaces: "148"
+	
+	
+	name: "Guy"
+	numMeshes: 1
+	 addr: "00000156EDE21510"
+	 name: "Cylinder.004"
+	 numVertices: "2422"
+	 numFaces: "1806"
+	
+	
+
+[11:59:24.219565] [Import] [info] (th=3096) File loaded successfully
+[11:59:24.219598] [Import] [info] (th=3096) Meshes count: 2
+[11:59:24.219631] [Import] [info] (th=3096) Materials count: 2
+[11:59:24.220113] [Import] [info] (th=3096) Textures count (imported): 1
+[12:00:19.692014] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Guy_T-pose.fbx
+[12:00:19.700135] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "Male_Hair1"
+	numMeshes: 1
+	 addr: "00000156EDE1F530"
+	 name: "Cube.001"
+	 numVertices: "190"
+	 numFaces: "148"
+	
+	
+	name: "Guy"
+	numMeshes: 1
+	 addr: "00000156EDE23F90"
+	 name: "Cylinder.004"
+	 numVertices: "2422"
+	 numFaces: "1806"
+	
+	
+
+[12:00:19.700261] [Import] [info] (th=3096) File loaded successfully
+[12:00:19.700303] [Import] [info] (th=3096) Meshes count: 2
+[12:00:19.700336] [Import] [info] (th=3096) Materials count: 2
+[12:00:19.700831] [Import] [info] (th=3096) Textures count (imported): 1
+[12:02:37.223597] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Warrior Idle.fbx
+[12:02:37.231390] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "mixamo:Player.001"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[12:02:37.231436] [Import] [info] (th=3096) File loaded successfully
+[12:02:37.231469] [Import] [info] (th=3096) Meshes count: 0
+[12:02:37.231502] [Import] [info] (th=3096) Materials count: 0
+[12:03:27.499365] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Guy_T-pose.fbx
+[12:03:27.508650] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+	name: "Guy"
+	numMeshes: 1
+	 addr: "00000156EDE244E0"
+	 name: "Cylinder.004"
+	 numVertices: "2612"
+	 numFaces: "1954"
+	
+	
+
+[12:03:27.508726] [Import] [info] (th=3096) File loaded successfully
+[12:03:27.508788] [Import] [info] (th=3096) Meshes count: 1
+[12:03:27.508855] [Import] [info] (th=3096) Materials count: 1
+[12:03:27.509246] [Import] [info] (th=3096) Textures count (imported): 1
+[12:03:39.221408] [Import] [info] (th=3096) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Warrior Idle.fbx
+[12:03:39.228039] [Import] [info] (th=3096) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "mixamo:Player.001"
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[12:03:39.228115] [Import] [info] (th=3096) File loaded successfully
+[12:03:39.228154] [Import] [info] (th=3096) Meshes count: 0
+[12:03:39.228238] [Import] [info] (th=3096) Materials count: 0

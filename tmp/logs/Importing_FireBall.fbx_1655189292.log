@@ -1,0 +1,26 @@
+[10:48:12.413813] [Import] [info] (th=4188) Log level for 'Import' set to 'info'
+[10:48:12.414353] [Import] [info] (th=4188) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Props\FireBall.fbx
+[10:48:12.509680] [Import] [info] (th=4188) Imported scene tree:
+name: "RootNode"
+
+	name: "Icosphere"
+	numMeshes: 1
+	 addr: "0000011497269B00"
+	 name: "Icosphere"
+	 numVertices: "240"
+	 numFaces: "80"
+	
+	
+	name: "Plane.002"
+	numMeshes: 1
+	 addr: "0000011497271A80"
+	 name: "Plane.007"
+	 numVertices: "224"
+	 numFaces: "124"
+	
+	
+
+[10:48:12.509729] [Import] [info] (th=4188) File loaded successfully
+[10:48:12.509762] [Import] [info] (th=4188) Meshes count: 2
+[10:48:12.509796] [Import] [info] (th=4188) Materials count: 2
+[10:48:12.530222] [Import] [info] (th=4188) Textures count (imported): 0

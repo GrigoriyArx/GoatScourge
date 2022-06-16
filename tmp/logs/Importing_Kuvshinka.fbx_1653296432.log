@@ -1,0 +1,18 @@
+[13:00:32.014638] [Import] [info] (th=6056) Log level for 'Import' set to 'info'
+[13:00:32.014733] [Import] [info] (th=6056) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Kuvshinka.fbx
+[13:00:32.028771] [Import] [info] (th=6056) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.173"
+	numMeshes: 1
+	 addr: "0000016748CC08C0"
+	 name: "Circle.027"
+	 numVertices: "183"
+	 numFaces: "102"
+	
+	
+
+[13:00:32.028911] [Import] [info] (th=6056) File loaded successfully
+[13:00:32.029012] [Import] [info] (th=6056) Meshes count: 1
+[13:00:32.029186] [Import] [info] (th=6056) Materials count: 1
+[13:00:32.029570] [Import] [info] (th=6056) Textures count (imported): 1

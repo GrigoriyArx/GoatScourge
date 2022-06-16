@@ -1,0 +1,118 @@
+[12:44:21.444811] [Import] [info] (th=5624) Log level for 'Import' set to 'info'
+[12:44:21.444913] [Import] [info] (th=5624) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Bear\Export\Bear_T-pose2.fbx
+[12:44:21.454484] [Import] [info] (th=5624) Imported scene tree:
+name: "RootNode"
+
+	name: "JackPanda_L"
+	numMeshes: 1
+	 addr: "0000018EDB484600"
+	 name: "Cube.001"
+	 numVertices: "3746"
+	 numFaces: "2169"
+	
+	
+	name: "GrogWolf"
+	
+		name: "root"
+		
+			name: "hip"
+			
+				name: "spine"
+				
+					name: "chest"
+					
+						name: "neck"
+						
+							name: "Head"
+							
+						name: "calvincle_L"
+						
+							name: "arm_L"
+							
+								name: "forearm_L"
+								
+									name: "Hand_L"
+									
+						name: "calvincle_R"
+						
+							name: "arm_R"
+							
+								name: "forearm_R"
+								
+									name: "Hand_R"
+									
+				name: "leg_L"
+				
+					name: "shin_L"
+					
+						name: "foot_L"
+						
+							name: "toe_L"
+							
+				name: "leg_R"
+				
+					name: "shin_R"
+					
+						name: "foot_R"
+						
+							name: "toe_R"
+							
+
+[12:44:21.454535] [Import] [info] (th=5624) File loaded successfully
+[12:44:21.454569] [Import] [info] (th=5624) Meshes count: 1
+[12:44:21.454601] [Import] [info] (th=5624) Materials count: 1
+[12:44:21.454955] [Import] [info] (th=5624) Textures count (imported): 1
+[12:45:14.127051] [Import] [info] (th=5624) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Bear\Export\walk.fbx
+[12:45:14.140395] [Import] [info] (th=5624) Imported scene tree:
+name: "RootNode"
+
+	name: "GrogWolf"
+	
+		name: "root"
+		
+			name: "hip"
+			
+				name: "spine"
+				
+					name: "chest"
+					
+						name: "neck"
+						
+							name: "Head"
+							
+						name: "calvincle_L"
+						
+							name: "arm_L"
+							
+								name: "forearm_L"
+								
+									name: "Hand_L"
+									
+						name: "calvincle_R"
+						
+							name: "arm_R"
+							
+								name: "forearm_R"
+								
+									name: "Hand_R"
+									
+				name: "leg_L"
+				
+					name: "shin_L"
+					
+						name: "foot_L"
+						
+							name: "toe_L"
+							
+				name: "leg_R"
+				
+					name: "shin_R"
+					
+						name: "foot_R"
+						
+							name: "toe_R"
+							
+
+[12:45:14.140462] [Import] [info] (th=5624) File loaded successfully
+[12:45:14.140514] [Import] [info] (th=5624) Meshes count: 0
+[12:45:14.140567] [Import] [info] (th=5624) Materials count: 0

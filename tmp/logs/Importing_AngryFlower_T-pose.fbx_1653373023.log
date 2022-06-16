@@ -1,0 +1,255 @@
+[10:17:03.443416] [Import] [info] (th=9808) Log level for 'Import' set to 'info'
+[10:17:03.443526] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\AngryFlower\Export\AngryFlower_T-pose.fbx
+[10:17:03.449483] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Angry_flower_stem"
+	numMeshes: 1
+	 addr: "000001FDD3763550"
+	 name: "Angry_flower_stem.003"
+	 numVertices: "1005"
+	 numFaces: "664"
+	
+	
+	name: "Angry_Flower_arma"
+	
+		name: "root"
+		
+			name: "stem0"
+			
+				name: "stem1"
+				
+					name: "stem2"
+					
+						name: "stem2.001"
+						
+							name: "stem3"
+							
+								name: "neck"
+								
+									name: "head"
+									
+									name: "jaw"
+									
+									name: "petals"
+									
+							name: "spine_leaf1"
+							
+								name: "spine_leaf2"
+								
+							name: "upper_leaf1.L"
+							
+								name: "upper_leaf2.L"
+								
+							name: "upper_leaf1.R"
+							
+								name: "upper_leaf2.R"
+								
+				name: "2bottom_leaf1.L"
+				
+					name: "2bottom_leaf2.L"
+					
+				name: "2bottom_leaf1.R"
+				
+					name: "2bottom_leaf2.R"
+					
+
+[10:17:03.449555] [Import] [info] (th=9808) File loaded successfully
+[10:17:03.449608] [Import] [info] (th=9808) Meshes count: 1
+[10:17:03.449679] [Import] [info] (th=9808) Materials count: 1
+[10:17:03.449933] [Import] [info] (th=9808) Textures count (imported): 0
+[10:18:36.679545] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\AngryFlower\Export\AngryFlower_IDLE.fbx
+[10:18:36.698414] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Angry_Flower_arma"
+	
+		name: "root"
+		
+			name: "stem0"
+			
+				name: "stem1"
+				
+					name: "stem2"
+					
+						name: "stem2.001"
+						
+							name: "stem3"
+							
+								name: "neck"
+								
+									name: "head"
+									
+									name: "jaw"
+									
+									name: "petals"
+									
+							name: "spine_leaf1"
+							
+								name: "spine_leaf2"
+								
+							name: "upper_leaf1.L"
+							
+								name: "upper_leaf2.L"
+								
+							name: "upper_leaf1.R"
+							
+								name: "upper_leaf2.R"
+								
+				name: "2bottom_leaf1.L"
+				
+					name: "2bottom_leaf2.L"
+					
+				name: "2bottom_leaf1.R"
+				
+					name: "2bottom_leaf2.R"
+					
+
+[10:18:36.698458] [Import] [info] (th=9808) File loaded successfully
+[10:18:36.698491] [Import] [info] (th=9808) Meshes count: 0
+[10:18:36.698524] [Import] [info] (th=9808) Materials count: 0
+[10:37:43.051529] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Chicken\Export\Chiken_T-pose.fbx
+[10:37:43.087439] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Chicken"
+	numMeshes: 1
+	 addr: "000001FD8E8FDE30"
+	 name: "Plane.001"
+	 numVertices: "829"
+	 numFaces: "552"
+	
+	
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "neck1"
+				
+					name: "neck2"
+					
+						name: "Head"
+						
+				name: "leg1_L"
+				
+					name: "Leg2_L"
+					
+						name: "toe_L"
+						
+				name: "leg1_R"
+				
+					name: "Leg2_R"
+					
+						name: "toe_R"
+						
+				name: "Taiil"
+				
+
+[10:37:43.087486] [Import] [info] (th=9808) File loaded successfully
+[10:37:43.087519] [Import] [info] (th=9808) Meshes count: 1
+[10:37:43.087552] [Import] [info] (th=9808) Materials count: 1
+[10:37:43.087864] [Import] [info] (th=9808) Textures count (imported): 1
+[10:38:14.922976] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Chicken\Export\Chiken_idle.fbx
+[10:38:14.948195] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "neck1"
+				
+					name: "neck2"
+					
+						name: "Head"
+						
+				name: "leg1_L"
+				
+					name: "Leg2_L"
+					
+						name: "toe_L"
+						
+				name: "leg1_R"
+				
+					name: "Leg2_R"
+					
+						name: "toe_R"
+						
+				name: "Taiil"
+				
+
+[10:38:14.948240] [Import] [info] (th=9808) File loaded successfully
+[10:38:14.948273] [Import] [info] (th=9808) Meshes count: 0
+[10:38:14.948308] [Import] [info] (th=9808) Materials count: 0
+[10:38:27.673860] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Chicken\Export\Chiken_run.fbx
+[10:38:27.707040] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "neck1"
+				
+					name: "neck2"
+					
+						name: "Head"
+						
+				name: "leg1_L"
+				
+					name: "Leg2_L"
+					
+						name: "toe_L"
+						
+				name: "leg1_R"
+				
+					name: "Leg2_R"
+					
+						name: "toe_R"
+						
+				name: "Taiil"
+				
+
+[10:38:27.707085] [Import] [info] (th=9808) File loaded successfully
+[10:38:27.707118] [Import] [info] (th=9808) Meshes count: 0
+[10:38:27.707150] [Import] [info] (th=9808) Materials count: 0
+[10:38:38.307068] [Import] [info] (th=9808) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\NPC\Chicken\Export\Chiken_peck.fbx
+[10:38:38.329711] [Import] [info] (th=9808) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "neck1"
+				
+					name: "neck2"
+					
+						name: "Head"
+						
+				name: "leg1_L"
+				
+					name: "Leg2_L"
+					
+						name: "toe_L"
+						
+				name: "leg1_R"
+				
+					name: "Leg2_R"
+					
+						name: "toe_R"
+						
+				name: "Taiil"
+				
+
+[10:38:38.329757] [Import] [info] (th=9808) File loaded successfully
+[10:38:38.329792] [Import] [info] (th=9808) Meshes count: 0
+[10:38:38.329827] [Import] [info] (th=9808) Materials count: 0

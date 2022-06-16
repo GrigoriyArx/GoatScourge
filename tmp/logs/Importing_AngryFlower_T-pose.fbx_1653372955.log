@@ -1,0 +1,60 @@
+[10:15:55.811325] [Import] [info] (th=10356) Log level for 'Import' set to 'info'
+[10:15:55.816948] [Import] [info] (th=10356) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\AngryFlower\Export\AngryFlower_T-pose.fbx
+[10:15:55.923270] [Import] [info] (th=10356) Imported scene tree:
+name: "RootNode"
+
+	name: "Angry_flower_stem"
+	numMeshes: 1
+	 addr: "000001F9AE622A80"
+	 name: "Angry_flower_stem.003"
+	 numVertices: "1005"
+	 numFaces: "664"
+	
+	
+	name: "Angry_Flower_arma"
+	
+		name: "root"
+		
+			name: "stem0"
+			
+				name: "stem1"
+				
+					name: "stem2"
+					
+						name: "stem2.001"
+						
+							name: "stem3"
+							
+								name: "neck"
+								
+									name: "head"
+									
+									name: "jaw"
+									
+									name: "petals"
+									
+							name: "spine_leaf1"
+							
+								name: "spine_leaf2"
+								
+							name: "upper_leaf1.L"
+							
+								name: "upper_leaf2.L"
+								
+							name: "upper_leaf1.R"
+							
+								name: "upper_leaf2.R"
+								
+				name: "2bottom_leaf1.L"
+				
+					name: "2bottom_leaf2.L"
+					
+				name: "2bottom_leaf1.R"
+				
+					name: "2bottom_leaf2.R"
+					
+
+[10:15:55.923367] [Import] [info] (th=10356) File loaded successfully
+[10:15:55.923439] [Import] [info] (th=10356) Meshes count: 1
+[10:15:55.923505] [Import] [info] (th=10356) Materials count: 1
+[10:15:55.931382] [Import] [info] (th=10356) Textures count (imported): 0

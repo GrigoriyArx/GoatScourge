@@ -1,0 +1,180 @@
+[10:58:42.626738] [Import] [info] (th=9472) Log level for 'Import' set to 'info'
+[10:58:42.626918] [Import] [info] (th=9472) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\Player_T-pose.fbx
+[10:58:42.636312] [Import] [info] (th=9472) Imported scene tree:
+name: "RootNode"
+
+	name: "Player"
+	numMeshes: 1
+	 addr: "000002529C9CF690"
+	 name: "Cylinder.002"
+	 numVertices: "3225"
+	 numFaces: "2362"
+	
+	
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "Player.001"
+										numMeshes: 1
+										 addr: "00000252EF94D4A0"
+										 name: "Cylinder.001"
+										 numVertices: "266"
+										 numFaces: "200"
+										
+										
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[10:58:42.636360] [Import] [info] (th=9472) File loaded successfully
+[10:58:42.636394] [Import] [info] (th=9472) Meshes count: 2
+[10:58:42.636427] [Import] [info] (th=9472) Materials count: 1
+[10:58:42.636750] [Import] [info] (th=9472) Textures count (imported): 1
+[10:59:11.674828] [Import] [info] (th=9472) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\RUN.fbx
+[10:59:11.682420] [Import] [info] (th=9472) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[10:59:11.682528] [Import] [info] (th=9472) File loaded successfully
+[10:59:11.682578] [Import] [info] (th=9472) Meshes count: 0
+[10:59:11.682612] [Import] [info] (th=9472) Materials count: 0
+[10:59:19.755993] [Import] [info] (th=9472) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\GG\Export\IDLE.fbx
+[10:59:19.773890] [Import] [info] (th=9472) Imported scene tree:
+name: "RootNode"
+
+	name: "Main_armature_GG"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+						name: "neck"
+						
+							name: "Head"
+							
+
+[10:59:19.773978] [Import] [info] (th=9472) File loaded successfully
+[10:59:19.774034] [Import] [info] (th=9472) Meshes count: 0
+[10:59:19.774108] [Import] [info] (th=9472) Materials count: 0

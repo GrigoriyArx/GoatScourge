@@ -1,0 +1,186 @@
+[16:57:35.859162] [Import] [info] (th=672) Log level for 'Import' set to 'info'
+[16:57:35.859258] [Import] [info] (th=672) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Golem\Export\Golem_T-pose.fbx
+[16:57:35.881133] [Import] [info] (th=672) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.005"
+	numMeshes: 1
+	 addr: "0000010D72F90F10"
+	 name: "Cube.006"
+	 numVertices: "6228"
+	 numFaces: "4236"
+	
+	
+	name: "Armature"
+	
+		name: "Hip"
+		
+			name: "Spine"
+			
+				name: "Chest"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+					name: "Calvincle_L"
+					
+						name: "Arm_L"
+						
+							name: "Forearm_L"
+							
+								name: "Hand_L"
+								
+									name: "Forearm_L.002"
+									
+										name: "Forearm_L.003"
+										
+									name: "F_index1_L"
+									
+										name: "F_index2_L"
+										
+											name: "F_index3_L"
+											
+									name: "F_lit1_L"
+									
+										name: "F_lit2_L"
+										
+											name: "F_lit3_L"
+											
+					name: "Calvincle_R"
+					
+						name: "Arm_R"
+						
+							name: "Forearm_R"
+							
+								name: "Hand_R"
+								
+									name: "Forearm_R.002"
+									
+										name: "Forearm_R.003"
+										
+									name: "F_lit1_R"
+									
+										name: "F_lit2_R"
+										
+											name: "F_lit3_R"
+											
+									name: "F_index1_R"
+									
+										name: "F_index2_R"
+										
+											name: "F_index3_R"
+											
+			name: "Hip_L"
+			
+				name: "leg1_L"
+				
+					name: "leg2_L"
+					
+						name: "leg3_L"
+						
+							name: "foot_L"
+							
+			name: "Hip_R"
+			
+				name: "leg1_R"
+				
+					name: "leg2_R"
+					
+						name: "leg3_R"
+						
+							name: "foot_R"
+							
+
+[16:57:35.881190] [Import] [info] (th=672) File loaded successfully
+[16:57:35.881225] [Import] [info] (th=672) Meshes count: 1
+[16:57:35.881259] [Import] [info] (th=672) Materials count: 1
+[16:57:35.881613] [Import] [info] (th=672) Textures count (imported): 1
+[16:58:03.461570] [Import] [info] (th=672) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Golem\Export\Golem_walk.fbx
+[16:58:03.488598] [Import] [info] (th=672) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Hip"
+		
+			name: "Spine"
+			
+				name: "Chest"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+					name: "Calvincle_L"
+					
+						name: "Arm_L"
+						
+							name: "Forearm_L"
+							
+								name: "Hand_L"
+								
+									name: "Forearm_L.002"
+									
+										name: "Forearm_L.003"
+										
+									name: "F_index1_L"
+									
+										name: "F_index2_L"
+										
+											name: "F_index3_L"
+											
+									name: "F_lit1_L"
+									
+										name: "F_lit2_L"
+										
+											name: "F_lit3_L"
+											
+					name: "Calvincle_R"
+					
+						name: "Arm_R"
+						
+							name: "Forearm_R"
+							
+								name: "Hand_R"
+								
+									name: "Forearm_R.002"
+									
+										name: "Forearm_R.003"
+										
+									name: "F_lit1_R"
+									
+										name: "F_lit2_R"
+										
+											name: "F_lit3_R"
+											
+									name: "F_index1_R"
+									
+										name: "F_index2_R"
+										
+											name: "F_index3_R"
+											
+			name: "Hip_L"
+			
+				name: "leg1_L"
+				
+					name: "leg2_L"
+					
+						name: "leg3_L"
+						
+							name: "foot_L"
+							
+			name: "Hip_R"
+			
+				name: "leg1_R"
+				
+					name: "leg2_R"
+					
+						name: "leg3_R"
+						
+							name: "foot_R"
+							
+
+[16:58:03.488707] [Import] [info] (th=672) File loaded successfully
+[16:58:03.488876] [Import] [info] (th=672) Meshes count: 0
+[16:58:03.489068] [Import] [info] (th=672) Materials count: 0

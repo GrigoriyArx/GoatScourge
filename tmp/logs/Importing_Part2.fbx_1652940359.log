@@ -1,0 +1,2079 @@
+[10:05:59.628163] [Import] [info] (th=10876) Log level for 'Import' set to 'info'
+[10:05:59.628419] [Import] [info] (th=10876) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Part2.fbx
+[10:05:59.818219] [Import] [info] (th=10876) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche01.023"
+	numMeshes: 1
+	 addr: "000001FF14940A90"
+	 name: "Plane.041"
+	 numVertices: "667"
+	 numFaces: "324"
+	
+	
+	name: "GrassPatche01.025"
+	numMeshes: 1
+	 addr: "000001FF14940A90"
+	 name: "Plane.041"
+	 numVertices: "667"
+	 numFaces: "324"
+	
+	
+	name: "Stone_mid.001"
+	numMeshes: 1
+	 addr: "000001FF14943510"
+	 name: "Plane.043"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_mid.003"
+	numMeshes: 1
+	 addr: "000001FF14943510"
+	 name: "Plane.043"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_mid.004"
+	numMeshes: 1
+	 addr: "000001FF1493EAB0"
+	 name: "Plane.044"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_small"
+	numMeshes: 1
+	 addr: "000001FF14942FC0"
+	 name: "Plane.045"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.003"
+	numMeshes: 1
+	 addr: "000001FF14942A70"
+	 name: "Plane.048"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.004"
+	numMeshes: 1
+	 addr: "000001FF14940FE0"
+	 name: "Plane.049"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.007"
+	numMeshes: 1
+	 addr: "000001FF1493F000"
+	 name: "Plane.052"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.008"
+	numMeshes: 1
+	 addr: "000001FF14941530"
+	 name: "Plane.053"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "GrassPatche01.028"
+	numMeshes: 1
+	 addr: "000001FF1493F550"
+	 name: "Plane.067"
+	 numVertices: "163"
+	 numFaces: "92"
+	
+	
+	name: "Stone_mid.008"
+	numMeshes: 1
+	 addr: "000001FF1493FAA0"
+	 name: "Plane.068"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_mid.009"
+	numMeshes: 1
+	 addr: "000001FF1493FFF0"
+	 name: "Plane.069"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_small.010"
+	numMeshes: 1
+	 addr: "000001FF14941A80"
+	 name: "Plane.070"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "GrassPatche01.057"
+	numMeshes: 1
+	 addr: "000001FF14941FD0"
+	 name: "Plane.059"
+	 numVertices: "163"
+	 numFaces: "92"
+	
+	
+	name: "Stone_mid.010"
+	numMeshes: 1
+	 addr: "000001FF14942520"
+	 name: "Plane.061"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_small.011"
+	numMeshes: 1
+	 addr: "000001FF2AA5B590"
+	 name: "Plane.115"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.012"
+	numMeshes: 1
+	 addr: "000001FF2AA59060"
+	 name: "Plane.116"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "GrassPatche01.094"
+	numMeshes: 1
+	 addr: "000001FF14940A90"
+	 name: "Plane.041"
+	 numVertices: "667"
+	 numFaces: "324"
+	
+	
+	name: "Stone_mid.013"
+	numMeshes: 1
+	 addr: "000001FF14943510"
+	 name: "Plane.043"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_small.016"
+	numMeshes: 1
+	 addr: "000001FF14941530"
+	 name: "Plane.053"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_mid.014"
+	numMeshes: 1
+	 addr: "000001FF1493EAB0"
+	 name: "Plane.044"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "SmallPlant2.003"
+	numMeshes: 1
+	 addr: "000001FF2AA5C030"
+	 name: "Plane.014"
+	 numVertices: "238"
+	 numFaces: "132"
+	
+	
+	name: "SmallPlant2.004"
+	numMeshes: 1
+	 addr: "000001FF2AA5C030"
+	 name: "Plane.014"
+	 numVertices: "238"
+	 numFaces: "132"
+	
+	
+	name: "SmallPlant2.010"
+	numMeshes: 1
+	 addr: "000001FF2AA5C030"
+	 name: "Plane.014"
+	 numVertices: "238"
+	 numFaces: "132"
+	
+	
+	name: "SmallPlant2.013"
+	numMeshes: 1
+	 addr: "000001FF2AA5E010"
+	 name: "Plane.207"
+	 numVertices: "237"
+	 numFaces: "132"
+	
+	
+	name: "TreeV6a.002"
+	numMeshes: 1
+	 addr: "000001FF2AA5C580"
+	 name: "BezierCurve.008"
+	 numVertices: "1171"
+	 numFaces: "964"
+	
+	
+	name: "TreeV6b.003"
+	numMeshes: 1
+	 addr: "000001FF2AA5BAE0"
+	 name: "BezierCurve.024"
+	 numVertices: "802"
+	 numFaces: "656"
+	
+	
+	name: "GrassPatche01.005"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche02.015"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.021"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche01.032"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche01.038"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche03.012"
+	numMeshes: 1
+	 addr: "000001FF2AA58070"
+	 name: "Plane.002"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche03.018"
+	numMeshes: 1
+	 addr: "000001FF2AA5D020"
+	 name: "Plane.030"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche03.019"
+	numMeshes: 1
+	 addr: "000001FF2AA5D020"
+	 name: "Plane.030"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche02.024"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.025"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche01.041"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche03.020"
+	numMeshes: 1
+	 addr: "000001FF2AA58070"
+	 name: "Plane.002"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche03.021"
+	numMeshes: 1
+	 addr: "000001FF2AA5D020"
+	 name: "Plane.030"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche03.022"
+	numMeshes: 1
+	 addr: "000001FF2AA5D020"
+	 name: "Plane.030"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche02.026"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.027"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.028"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche01.045"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche01.046"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche01.047"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche01.048"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche01.049"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche03.028"
+	numMeshes: 1
+	 addr: "000001FF2AA595B0"
+	 name: "Plane.032"
+	 numVertices: "1153"
+	 numFaces: "718"
+	
+	
+	name: "GrassPatche02.037"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.038"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche01.089"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche03.034"
+	numMeshes: 1
+	 addr: "000001FF2AA58070"
+	 name: "Plane.002"
+	 numVertices: "129"
+	 numFaces: "85"
+	
+	
+	name: "GrassPatche02.039"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche02.040"
+	numMeshes: 1
+	 addr: "000001FF2AA5CAD0"
+	 name: "Plane.004"
+	 numVertices: "134"
+	 numFaces: "81"
+	
+	
+	name: "GrassPatche01.092"
+	numMeshes: 1
+	 addr: "000001FF2AA5FAA0"
+	 name: "Plane.005"
+	 numVertices: "91"
+	 numFaces: "55"
+	
+	
+	name: "GrassPatche03.049"
+	numMeshes: 1
+	 addr: "000001FF2AA5FFF0"
+	 name: "Plane.213"
+	 numVertices: "1153"
+	 numFaces: "718"
+	
+	
+	name: "GrassPatche02.052"
+	numMeshes: 1
+	 addr: "000001FF2AA5E560"
+	 name: "Plane.227"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche01.075"
+	numMeshes: 1
+	 addr: "000001FF2AA59B00"
+	 name: "Plane.131"
+	 numVertices: "377"
+	 numFaces: "222"
+	
+	
+	name: "GrassPatche01.076"
+	numMeshes: 1
+	 addr: "000001FF2AA585C0"
+	 name: "Plane.132"
+	 numVertices: "245"
+	 numFaces: "149"
+	
+	
+	name: "GrassPatche01.084"
+	numMeshes: 1
+	 addr: "000001FF2AA5A050"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.086"
+	numMeshes: 1
+	 addr: "000001FF2AA585C0"
+	 name: "Plane.132"
+	 numVertices: "245"
+	 numFaces: "149"
+	
+	
+	name: "GrassPatche01.088"
+	numMeshes: 1
+	 addr: "000001FF2AA5D570"
+	 name: "Plane.007"
+	 numVertices: "377"
+	 numFaces: "222"
+	
+	
+	name: "GrassPatche01.095"
+	numMeshes: 1
+	 addr: "000001FF2AA5A050"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.096"
+	numMeshes: 1
+	 addr: "000001FF2AA5A050"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.098"
+	numMeshes: 1
+	 addr: "000001FF2AA5A050"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.099"
+	numMeshes: 1
+	 addr: "000001FF2AA5A050"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GroundPiece00.004"
+	numMeshes: 1
+	 addr: "000001FF2AA5DAC0"
+	 name: "Plane.010"
+	 numVertices: "59"
+	 numFaces: "45"
+	
+	
+	name: "GroundPiece00.048"
+	numMeshes: 1
+	 addr: "000001FF2AA5A5A0"
+	 name: "Plane.143"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.049"
+	numMeshes: 1
+	 addr: "000001FF2AA5AAF0"
+	 name: "Plane.189"
+	 numVertices: "882"
+	 numFaces: "450"
+	
+	
+	name: "GroundPiece00.057"
+	numMeshes: 1
+	 addr: "000001FF2AA5B040"
+	 name: "Plane.031"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.058"
+	numMeshes: 1
+	 addr: "000001FF2AA5F000"
+	 name: "Plane.033"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.059"
+	numMeshes: 1
+	 addr: "000001FF2AA60540"
+	 name: "Plane.055"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.060"
+	numMeshes: 1
+	 addr: "000001FF2AA5F550"
+	 name: "Plane.056"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.061"
+	numMeshes: 1
+	 addr: "000001FF2AA58B10"
+	 name: "Plane.057"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.062"
+	numMeshes: 1
+	 addr: "000001FF2AA60A90"
+	 name: "Plane.117"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.064"
+	numMeshes: 1
+	 addr: "000001FF2AA62FC0"
+	 name: "Plane.125"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.074"
+	numMeshes: 1
+	 addr: "000001FF2AA65F90"
+	 name: "Plane.118"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.076"
+	numMeshes: 1
+	 addr: "000001FF2AA5AAF0"
+	 name: "Plane.189"
+	 numVertices: "882"
+	 numFaces: "450"
+	
+	
+	name: "GroundPiece00.077"
+	numMeshes: 1
+	 addr: "000001FF2AA5AAF0"
+	 name: "Plane.189"
+	 numVertices: "882"
+	 numFaces: "450"
+	
+	
+	name: "GroundPiece00.079"
+	numMeshes: 1
+	 addr: "000001FF2AA5AAF0"
+	 name: "Plane.189"
+	 numVertices: "882"
+	 numFaces: "450"
+	
+	
+	name: "GroundPiece00.063"
+	numMeshes: 1
+	 addr: "000001FF2AA684C0"
+	 name: "Plane.039"
+	 numVertices: "1019"
+	 numFaces: "442"
+	
+	
+	name: "GroundPiece00.078"
+	numMeshes: 1
+	 addr: "000001FF2AA62520"
+	 name: "Plane.266"
+	 numVertices: "882"
+	 numFaces: "450"
+	
+	
+	name: "Bridge"
+	numMeshes: 1
+	 addr: "000001FF2AA66F80"
+	 name: "Cube.038"
+	 numVertices: "1387"
+	 numFaces: "864"
+	
+	
+	name: "Cube.032"
+	numMeshes: 1
+	 addr: "000001FF2AA68A10"
+	 name: "Cube.049"
+	 numVertices: "3019"
+	 numFaces: "1822"
+	
+	
+	name: "GroundPiece00.028"
+	numMeshes: 1
+	 addr: "000001FF2AA60FE0"
+	 name: "Plane.156"
+	 numVertices: "6204"
+	 numFaces: "2917"
+	
+	
+	name: "Circle.001"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.002"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.003"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.004"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.005"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.006"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.007"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.008"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.017"
+	numMeshes: 1
+	 addr: "000001FF2AA674D0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.030"
+	numMeshes: 1
+	 addr: "000001FF2AA674D0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.048"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.070"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.071"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.072"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.078"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.079"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.081"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.082"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.083"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "TreeV5a.010"
+	numMeshes: 2
+	 addr: "000001FF2AA62A70"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF2AA61530"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.018"
+	numMeshes: 2
+	 addr: "000001FF2AA62A70"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF2AA61530"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5b.001"
+	numMeshes: 2
+	 addr: "000001FF2AA654F0"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF2AA67A20"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.006"
+	numMeshes: 2
+	 addr: "000001FF2AA654F0"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF2AA67A20"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.007"
+	numMeshes: 2
+	 addr: "000001FF2AA654F0"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF2AA67A20"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "Circle.161"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.162"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.168"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.170"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.171"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.172"
+	numMeshes: 1
+	 addr: "000001FF2AA68F60"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "GroundPiece00.153"
+	numMeshes: 1
+	 addr: "000001FF2AA694B0"
+	 name: "Plane.204"
+	 numVertices: "1086"
+	 numFaces: "606"
+	
+	
+	name: "GroundPiece00.075"
+	numMeshes: 1
+	 addr: "000001FF2AA61A80"
+	 name: "Plane.264"
+	 numVertices: "1086"
+	 numFaces: "606"
+	
+	
+	name: "GroundPiece00.162"
+	numMeshes: 1
+	 addr: "000001FF2AA61A80"
+	 name: "Plane.264"
+	 numVertices: "1086"
+	 numFaces: "606"
+	
+	
+	name: "logs_and_Axe.005"
+	numMeshes: 1
+	 addr: "000001FF2AA69A00"
+	 name: "Plane.210"
+	 numVertices: "58"
+	 numFaces: "34"
+	
+	
+
+[10:05:59.818286] [Import] [info] (th=10876) File loaded successfully
+[10:05:59.818320] [Import] [info] (th=10876) Meshes count: 56
+[10:05:59.818353] [Import] [info] (th=10876) Materials count: 4
+[10:05:59.819813] [Import] [info] (th=10876) Textures count (imported): 2
+[10:16:14.571534] [Import] [info] (th=10876) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Ground\Export\Part3.fbx
+[10:16:14.620819] [Import] [info] (th=10876) Imported scene tree:
+name: "RootNode"
+
+	name: "GrassPatche01.121"
+	numMeshes: 1
+	 addr: "000001FF18820760"
+	 name: "Plane.041"
+	 numVertices: "667"
+	 numFaces: "324"
+	
+	
+	name: "Stone_small.027"
+	numMeshes: 1
+	 addr: "000001FF18821CA0"
+	 name: "Plane.053"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "GrassPatche01.122"
+	numMeshes: 1
+	 addr: "000001FF18820760"
+	 name: "Plane.041"
+	 numVertices: "667"
+	 numFaces: "324"
+	
+	
+	name: "Stone_mid.025"
+	numMeshes: 1
+	 addr: "000001FF18821200"
+	 name: "Plane.043"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_mid.026"
+	numMeshes: 1
+	 addr: "000001FF18820CB0"
+	 name: "Plane.044"
+	 numVertices: "145"
+	 numFaces: "70"
+	
+	
+	name: "Stone_small.028"
+	numMeshes: 1
+	 addr: "000001FF18821750"
+	 name: "Plane.045"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.029"
+	numMeshes: 1
+	 addr: "000001FF1B490250"
+	 name: "Plane.052"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "Stone_small.030"
+	numMeshes: 1
+	 addr: "000001FF18821CA0"
+	 name: "Plane.053"
+	 numVertices: "107"
+	 numFaces: "46"
+	
+	
+	name: "GrassPatche01.123"
+	numMeshes: 1
+	 addr: "000001FF1B490CF0"
+	 name: "Plane.221"
+	 numVertices: "774"
+	 numFaces: "370"
+	
+	
+	name: "GrassPatche01.120"
+	numMeshes: 1
+	 addr: "000001FF1B490CF0"
+	 name: "Plane.221"
+	 numVertices: "774"
+	 numFaces: "370"
+	
+	
+	name: "SmallPlant2.011"
+	numMeshes: 1
+	 addr: "000001FF1B4907A0"
+	 name: "Plane.207"
+	 numVertices: "237"
+	 numFaces: "132"
+	
+	
+	name: "SmallPlant2.012"
+	numMeshes: 1
+	 addr: "000001FF1B4907A0"
+	 name: "Plane.207"
+	 numVertices: "237"
+	 numFaces: "132"
+	
+	
+	name: "GrassPatche03.047"
+	numMeshes: 1
+	 addr: "000001FF1B493770"
+	 name: "Plane.213"
+	 numVertices: "1153"
+	 numFaces: "718"
+	
+	
+	name: "GrassPatche03.048"
+	numMeshes: 1
+	 addr: "000001FF1B493770"
+	 name: "Plane.213"
+	 numVertices: "1153"
+	 numFaces: "718"
+	
+	
+	name: "GrassPatche02.047"
+	numMeshes: 1
+	 addr: "000001FF1B492780"
+	 name: "Plane.217"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.046"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.048"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.049"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.050"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.051"
+	numMeshes: 1
+	 addr: "000001FF1B491240"
+	 name: "Plane.227"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.054"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.055"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche02.056"
+	numMeshes: 1
+	 addr: "000001FF1B492230"
+	 name: "Plane.220"
+	 numVertices: "986"
+	 numFaces: "603"
+	
+	
+	name: "GrassPatche01.053"
+	numMeshes: 1
+	 addr: "000001FF1B491790"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.100"
+	numMeshes: 1
+	 addr: "000001FF1B491790"
+	 name: "Plane.042"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.124"
+	numMeshes: 1
+	 addr: "000001FF1B492CD0"
+	 name: "Plane.228"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GrassPatche01.151"
+	numMeshes: 1
+	 addr: "000001FF1B492CD0"
+	 name: "Plane.228"
+	 numVertices: "754"
+	 numFaces: "444"
+	
+	
+	name: "GroundPiece00.080"
+	numMeshes: 1
+	 addr: "000001FF1B491CE0"
+	 name: "Plane.155"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.081"
+	numMeshes: 1
+	 addr: "000001FF1B491CE0"
+	 name: "Plane.155"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.082"
+	numMeshes: 1
+	 addr: "000001FF1B491CE0"
+	 name: "Plane.155"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.083"
+	numMeshes: 1
+	 addr: "000001FF1B491CE0"
+	 name: "Plane.155"
+	 numVertices: "793"
+	 numFaces: "406"
+	
+	
+	name: "GroundPiece00.054"
+	numMeshes: 1
+	 addr: "000001FF1B493220"
+	 name: "Plane.148"
+	 numVertices: "6018"
+	 numFaces: "2702"
+	
+	
+	name: "Circle.009"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.010"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.011"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.012"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.013"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.014"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.015"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.016"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.018"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.019"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.020"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.021"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.022"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.023"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.024"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.025"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.026"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.027"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.028"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.029"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.031"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.032"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.033"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.034"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.035"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.036"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.037"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.038"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.039"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.040"
+	numMeshes: 1
+	 addr: "000001FF24B2F8C0"
+	 name: "Circle.005"
+	 numVertices: "2944"
+	 numFaces: "1908"
+	
+	
+	name: "Circle.041"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.042"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.043"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.044"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.045"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.046"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.047"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.049"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.050"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.051"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.052"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.053"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.054"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.055"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.056"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.057"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.058"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.059"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.060"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.061"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.062"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.063"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.064"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.065"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.066"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.067"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.068"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.069"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.073"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.074"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.075"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.076"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.077"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.080"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "TreeV5a.006"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.007"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.008"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.009"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.012"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.013"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.014"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.016"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5a.017"
+	numMeshes: 2
+	 addr: "000001FF24B2F370"
+	 name: "Cube.019"
+	 numVertices: "593"
+	 numFaces: "416"
+	
+	 addr: "000001FF24B2D8E0"
+	 name: "Cube.019"
+	 numVertices: "2377"
+	 numFaces: "1110"
+	
+	
+	name: "TreeV5b.002"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.004"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.005"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.008"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.009"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "TreeV5b.010"
+	numMeshes: 2
+	 addr: "000001FF24B2E380"
+	 name: "Cube.020"
+	 numVertices: "464"
+	 numFaces: "336"
+	
+	 addr: "000001FF24B2E8D0"
+	 name: "Cube.020"
+	 numVertices: "1441"
+	 numFaces: "680"
+	
+	
+	name: "Circle.132"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.163"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.164"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.165"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.166"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.167"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Circle.169"
+	numMeshes: 1
+	 addr: "000001FF24B2D390"
+	 name: "Circle.002"
+	 numVertices: "244"
+	 numFaces: "159"
+	
+	
+	name: "Swamptree1.005"
+	numMeshes: 1
+	 addr: "000001FF24B2EE20"
+	 name: "Circle.024"
+	 numVertices: "483"
+	 numFaces: "239"
+	
+	
+	name: "GroundPiece00.026"
+	numMeshes: 1
+	 addr: "000001FF24B2FE10"
+	 name: "Plane.208"
+	 numVertices: "732"
+	 numFaces: "410"
+	
+	
+	name: "GroundPiece00.027"
+	numMeshes: 1
+	 addr: "000001FF24B2FE10"
+	 name: "Plane.208"
+	 numVertices: "732"
+	 numFaces: "410"
+	
+	
+	name: "logs_and_Axe.003"
+	numMeshes: 1
+	 addr: "000001FF24B30360"
+	 name: "Plane.209"
+	 numVertices: "58"
+	 numFaces: "34"
+	
+	
+	name: "logs_and_Axe.004"
+	numMeshes: 1
+	 addr: "000001FF70F96360"
+	 name: "Plane.210"
+	 numVertices: "58"
+	 numFaces: "34"
+	
+	
+
+[10:16:14.620872] [Import] [info] (th=10876) File loaded successfully
+[10:16:14.620906] [Import] [info] (th=10876) Meshes count: 26
+[10:16:14.620939] [Import] [info] (th=10876) Materials count: 4
+[10:16:14.621727] [Import] [info] (th=10876) Textures count (imported): 2

@@ -1,0 +1,174 @@
+[13:38:49.622401] [Import] [info] (th=17380) Log level for 'Import' set to 'info'
+[13:38:49.623054] [Import] [info] (th=17380) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Zombie\Export\Zombie_T-pose.fbx
+[13:38:49.776295] [Import] [info] (th=17380) Imported scene tree:
+name: "RootNode"
+
+	name: "Zombak"
+	numMeshes: 1
+	 addr: "000001D5955115A0"
+	 name: "Cube.006"
+	 numVertices: "7698"
+	 numFaces: "5626"
+	
+	
+	name: "ARMA"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "F_other1_R"
+										
+											name: "F_other2_R"
+											
+										name: "F_index1_R"
+										
+											name: "F_index2_R"
+											
+												name: "F_index3_R"
+												
+										name: "F_thumb1_R"
+										
+											name: "F_thumb2_R"
+											
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "F_other1_L"
+										
+											name: "F_other2_L"
+											
+										name: "F_index1_L"
+										
+											name: "F_index2_L"
+											
+												name: "F_index3_L"
+												
+										name: "F_thumb1_L"
+										
+											name: "F_thumb2_L"
+											
+						name: "neck"
+						
+							name: "Head"
+							
+
+[13:38:49.776350] [Import] [info] (th=17380) File loaded successfully
+[13:38:49.776383] [Import] [info] (th=17380) Meshes count: 1
+[13:38:49.776416] [Import] [info] (th=17380) Materials count: 1
+[13:38:49.785289] [Import] [info] (th=17380) Textures count (imported): 1
+[13:39:20.059761] [Import] [info] (th=17380) Importing from D:\_GrigoriiWorks\MANU\ManuWorks\AdventureNEW\Enemies\Zombie\Export\Zombie_walk.fbx
+[13:39:20.078882] [Import] [info] (th=17380) Imported scene tree:
+name: "RootNode"
+
+	name: "ARMA"
+	
+		name: "root"
+		
+			name: "pelvis"
+			
+				name: "thigh_L"
+				
+					name: "calf_L"
+					
+						name: "foot_L"
+						
+							name: "toes_L"
+							
+				name: "thigh_R"
+				
+					name: "calf_R"
+					
+						name: "foot_R"
+						
+							name: "toes_R"
+							
+				name: "spine01"
+				
+					name: "spine02"
+					
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "F_other1_R"
+										
+											name: "F_other2_R"
+											
+										name: "F_index1_R"
+										
+											name: "F_index2_R"
+											
+												name: "F_index3_R"
+												
+										name: "F_thumb1_R"
+										
+											name: "F_thumb2_R"
+											
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "F_other1_L"
+										
+											name: "F_other2_L"
+											
+										name: "F_index1_L"
+										
+											name: "F_index2_L"
+											
+												name: "F_index3_L"
+												
+										name: "F_thumb1_L"
+										
+											name: "F_thumb2_L"
+											
+						name: "neck"
+						
+							name: "Head"
+							
+
+[13:39:20.078956] [Import] [info] (th=17380) File loaded successfully
+[13:39:20.079014] [Import] [info] (th=17380) Meshes count: 0
+[13:39:20.079073] [Import] [info] (th=17380) Materials count: 0
